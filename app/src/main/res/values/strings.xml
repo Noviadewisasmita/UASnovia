@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">HEWAN</string>
+
+    <string name="kambing_kelinci_dan_kucing_pedia">kambing_kelinci_dan_kucing_pedia</string>
+    <string name="tentang">Tentang</string>
+    <string name="notifikasi">(Tekan gambar untuk membuka galeri)</string>
+    <string name="kambing">Ras kambing</string>
+    <string name="kelinci">Ras kelinci</string>
+    <string name="kucing">Ras kucing</string>
+    <string name="kambing_list_title">Daftar Ras kambing</string>
+    <string name="kelinci_list_title">Daftar Ras kelinci</string>
+    <string name="kucing_list_title">Daftar Ras Kucing</string>
+
+    <string name="jenis_hewan">Jenis Hewan</string>
+    <string name="asal">Asal</string>
+    <string name="deskripsi_hewan">Deskripsi hewan</string>
+
+
+    <string name="nama">NAMA</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="sistem_informasi">SISTEM INFORMASI</string>
+    <string name="semester">SEMESTER</string>
+
+    <!--    kambing-->
+    <string name="holstein_nama">kambing_kacang</string>
+    <string name="holstein_asal">indonesia</string>
+    <string name="holstein_deskripsi">kambing yang paling banyak di temui di indonesia a[alagi banyak di jumpai pada hari raya idul adha selain itu daya tahan tubuh yang kuat sehingga tidak mudah sakit dan perawatan nya sangat mudahbobot hanya mencapai 30 kg sementara kambing betina mancapai 25 kg.</string>
+    <string name="galloway_nama">kambing_etawa</string>
+    <string name="galloway_asal">indonesia</string>
+    <string name="galloway_deskripsi">kambing etawa di kenal sebagai kambing menghasilkan susu enak dan banyak memiliki ciri khas kakinya pendek tinggi kambing berkisaran antara 127 cm untuk kambing jantan untuk kambing betina tinggi 92 cm.</string>
+    <string name="hereford_nama">kambing_jawarandu</string>
+    <string name="hereford_asal">indonesia </string>
+    <string name="hereford_deskripsi">kambing jawarandu merupakan hasil persilangan dari kambing kacang dengan kambing etawa ukuran nya memiliki bobot seberat 40 kg ciri khas kambing jawaradu adanya tanduk kecil dengan telinga panjang yang jatuh  </string>
+    <string name="cachena_nama">kambing_boer</string>
+    <string name="cachena_asal">afrika_selatan</string>
+    <string name="cachena_deskripsi">kambing ini memiliki julukan sebagai kambing sapi bobot kambing boer dewasa bisa mencapai hingga 150 kg  kambing boer memiliki bulu yang pedenk</string>
+    <string name="anggus_nama">kambing_kosta</string>
+    <string name="anggus_asal">indonesia</string>
+    <string name="anggus_deskripsi">jenis kambing ini banyak di jumpai di daerah jawa barat dan sekitar nya kambing ini hasil kawin silang antara kambing kacang dengan kambing khasmir </string>
+
+    <!--    kelinci-->
+    <string name="arab_nama">netherland_dwarf </string>
+    <string name="arab_asal">belanda</string>
+    <string name="arab_deskripsi">kelinci yang berasal dari belanda dengan berat 1,1-2,5 pon,Dwarf belanda adalah satu ras kelinci terkecil </string>
+    <string name="appoloosa_nama">orictolagus_cunicul </string>
+    <string name="appoloosa_asal">eropa</string>
+    <string name="appoloosa_deskripsi">kelinci orictolagus cuniculus juga disebut kelinci eropa atau kelinci domestik adalah satu satunya spesies dalam genusnya</string>
+    <string name="dutch_nama">holland_lop  </string>
+    <string name="dutch_asal">belanda</string>
+    <string name="dutch_deskripsi">kelinci jenis holland lop adalah kelinci yang independent dan playfull</string>
+    <string name="mustang_asal">jerman  </string>
+    <string name="mustang_deskripsi">Adalah jenis kelinci domestik yang di akui oleh american rabbit association </string>
+
+    <!--    kucing-->
+    <string name="murrah_nama">Angora</string>
+    <string name="murrah_asal">Turki</string>
+    <string name="murrah_deskripsi">Aslinya berasal dari Ankara, Turki dengan ciri khas berbulu panjang dan lembut </string>
+    <string name="rawa_nama">Bengal</string>
+    <string name="rawa_asal">Inggris</string>
+    <string name="rawa_deskripsi">Merupakan hasil persilangan antara Kucing Leopard Asia dengan kucing domestik Inggris</string>
+    <string name="mediterania_nama">Birmani</string>
+    <string name="mediterania_asal">Myanmar</string>
+    <string name="mediterania_deskripsi">Konon awalnya merupakan ras kucing yand biasa menemani para biksu yang menetap pada kuil di Birma</string>
+    <string name="nagfuri_nama">Persia</string>
+    <string name="nagfuri_asal">Iran</string>
+    <string name="nagfuri_deskripsi">Kucing berbulu panjang dengan wajah bundar dan hidung pesek. Awalnya berasal dari Iran kemudian diimpor ke Italia</string>
+    <string name="surti_nama">Siam</string>
+    <string name="surti_asal">Thailand</string>
+    <string name="surti_deskripsi">Kucing hasil turunan dari Wichian Maat (Kucing Thailand) dengan ciri khas berbadan panjang dan langsing, wajah lonjong, telinga lebar, dan mata kebiruan </string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="mustang_nama">"mini_lop "</string>
+
+</resources>
